@@ -1,0 +1,15 @@
+<svg id="Component_43_1" data-name="Component 43 – 1" xmlns="http://www.w3.org/2000/svg" width="234" height="236" viewBox="0 0 234 236">
+  <ellipse id="Ellipse_237" data-name="Ellipse 237" cx="117" cy="118" rx="117" ry="118" fill="#b0c4de"/>
+  <g id="Component_42_2" data-name="Component 42 – 2" transform="translate(36 54.834)">
+    <path id="Path_800" data-name="Path 800" d="M4155.463,10167.059h162.4v126.623h-162.4Z" transform="translate(-4155 -10167.059)" fill="none" stroke="#fff8f8" stroke-width="6"/>
+    <g id="Polygon_3" data-name="Polygon 3" transform="translate(0 26.166)" fill="none">
+      <path d="M81.5,0,163,100H0Z" stroke="none"/>
+      <path d="M 81.5 9.497299194335938 L 12.63029479980469 94 L 150.3697052001953 94 L 81.5 9.497299194335938 M 81.5 0 L 163 100 L 0 100 L 81.5 0 Z" stroke="none" fill="#fff8f8"/>
+    </g>
+    <path id="Polygon_4" data-name="Polygon 4" d="M53,0l53,50H0Z" transform="translate(134 76.166) rotate(180)" fill="#b0c4de"/>
+    <g id="Polygon_2" data-name="Polygon 2" transform="translate(163 76.166) rotate(180)" fill="none">
+      <path d="M81.5,0,163,76H0Z" stroke="none"/>
+      <path d="M 81.5 8.203987121582031 L 15.23190307617188 70 L 147.7680969238281 70 L 81.5 8.203987121582031 M 81.5 0 L 163 76 L 0 76 L 81.5 0 Z" stroke="none" fill="#fff8f8"/>
+    </g>
+  </g>
+</svg>

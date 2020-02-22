@@ -4,7 +4,7 @@ import github from './github.svg';
 import linked from './linkedin.svg';
 import email from './mail.svg';
 import me from './87056035_193950971847381_8520005996070830080_n.jpg';
-import lockness from './Screen Shot 2020-02-21 at 6.41.20 PM.png';
+import lockness from './lockness.png';
 import capstone from './86497806_2974751885917379_8345486073081626624_o.jpg';
 import granted from './new_look.png';
 import hangover from './logo_hangover.png';
